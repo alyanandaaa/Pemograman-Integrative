@@ -1,3 +1,4 @@
+Bahasa Python
 #penjumlahan
 mangga = 3
 jeruk = 9
@@ -21,3 +22,31 @@ c = 34
 d = 2
 hasil = c / d
 print("berapa hasil pembagiannya? ", hasil)
+
+#Menerima inputan 2 variable secara bebas dalam c++
+Penjumlahan(){
+int x,y, z;
+cout << "input nilai x: ";
+cin >> x;
+
+for (x; x >= 0; x++)
+{
+cout << "masukkan nilai y: ";
+cin >> y;
+cout << endl;
+
+cout << "masukkan nilai z: ";
+cin >> z;
+cout << endl;
+
+cout << "Hasilnya: "<<x-y<<endl;
+cout << endl;
+}
+}
+
+int main()
+{
+penjumlahan();
+return 0;
+}
+
