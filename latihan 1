@@ -1,0 +1,5 @@
+#penjumlahan
+mangga = 3
+jeruk = 9
+buah = mangga + jeruk
+print(buah)
