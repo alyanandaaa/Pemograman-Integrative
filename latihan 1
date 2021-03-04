@@ -15,3 +15,9 @@ x = 6
 y = 27
 jumlah = x*y
 print(jumlah)
+
+#pembagian
+c = 34
+d = 2
+hasil = c / d
+print("berapa hasil pembagiannya? ", hasil)
